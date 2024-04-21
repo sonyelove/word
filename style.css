@@ -1,0 +1,142 @@
+body {
+    background-color: rgb(39, 35, 37);
+    color: rgb(255, 246, 230);
+    margin: 0px; 
+}
+
+ul{ 
+    list-style-type: none;
+    padding: 0px 0px;
+    margin-top: 0px;
+}
+
+li {
+    padding : 1vh 1vh 1vh 2vh;
+    border-bottom: 1px solid #414141;
+}
+
+
+li label {
+    font-size: 2em;
+    padding-left: 10px;
+    display: inline-block;
+    width : 90%;
+}
+
+li:hover{
+    background-color: #333;
+}
+
+.check-emoji {
+    font-size: 2em;
+    float: right;
+    padding-right: 20px;
+}
+
+
+.control-button{
+    background-color: #262e3a;
+    border-radius: 20px;
+    padding: 30px 20px;
+    text-align: center;
+    font-size: 2em;
+    margin: 20px 10px;
+}
+
+.control-button.pause {
+    width: 38%;
+    display: inline-block;
+    
+}
+ 
+.control-button.stop {
+    width: 38%;
+    display: inline-block;
+}
+
+.control-button.disable{
+    color: #303a48 !important;
+}
+
+
+.control-button:hover {
+    background-color: #364150;
+}
+
+#app_title {
+    background-color: #202126;
+    padding: 20px;
+    border-bottom: 1px solid #3b415d;
+}
+
+#word_card {
+    padding: 10px;
+}
+
+#word {
+    font-size: 6vw;
+    color: #b9b9b9;
+    border: 3px solid #505565;
+    padding: 20px;
+    line-height: 1.6em;
+
+}
+
+#mean {
+    margin-top : 10px;
+    font-size: 6vw;
+    color: #b9b9b9;
+    border: 3px solid #323233;
+    padding: 20px;
+    height: 40%;
+    line-height: 1.6em;
+
+}
+
+/* input 숨겨준다 */
+input[type=checkbox].check1{
+    display:none;
+}
+
+input[type=checkbox].check1 + label{
+    cursor:pointer;
+}
+
+input[type=checkbox].check1 + label > span{
+    vertical-align: middle;
+    padding-left: 15px;
+}
+
+/* label:before에 체크하기 전 상태 CSS */
+input[type=checkbox].check1 + label:before{
+    content:"";
+    display:inline-block;
+    width:24px;
+    height:24px;
+    border:2px solid #3d6689;
+    border-radius: 4px;
+    vertical-align:middle;
+}
+
+/* label:before에 체크 된 상태 CSS */  
+input[type=checkbox].check1:checked + label:before{
+    content:"";
+    background-color: #274581;
+    border-color: #407182;
+    /*background-image: url('check_btn.png');*/
+    background-repeat: no-repeat;
+    background-position: 50%;
+}
+
+input[type=checkbox].check2 + label{
+    margin-right: 20px;
+}
+
+#control_panel {
+    border: 1px solid #545454;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+    
