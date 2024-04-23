@@ -44,9 +44,9 @@ let word_string =
 5분후에 다시 전화할게요.	I will get back to you in 5 minutes.
 버스에 타세요.	Get on the bus
 차에 타세요.	Get in the car.
-저 버스에서 내렸어요.	got off the bus.
-저 택시에서 내렸어요.	got out of the taxi.
-저는 힘든 시간을 겪고 있습니다.	Im getting through a tough time.
+저 버스에서 내렸어요.	I got off the bus.
+저 택시에서 내렸어요.	I got out of the taxi.
+저는 힘든 시간을 겪고 있습니다.	I'm getting through a tough time.
 저는 힘든 일을 극복했습니다.	I got over my difficulties.
 저는 제 동료들과 잘 지냈습니다.	I got along with my coworkers.
 당신은 그를 앞질러야 해.	You must get ahead of him.
@@ -241,7 +241,7 @@ Unit04 - 공공시설물
 안에서는 사진을 찍지 못하지만, 밖에 나가시면 마음대로 찍으실 수 있습니다.	Indoor photography is prohibited but outdoor photography is allowed.
 음료수나 음식 반입은 안 됩니다.	Food and beverages are not allowed in here.
 
-Unit04 - Korean into English
+Unit04 - 한글
 한국에는 고유의 문자인 '한글'이 있다.	Korea has a unique writing system called "Hangeul."
 한글은 세종대왕이 창제하였다.	Hangeul was created by King Sejong the Great.
 한글 이전에는 한자를 사용했다.	Korean people used Chinese characters before Hangeul.
@@ -290,9 +290,8 @@ Unit05 - Weather
 Unit04 - Shopping
 토산품점을 한번 가보세요.	How about going to a Jeju specialties store?
 제주도 특색이 나는 다양한 상품들이 있어요.	They have lots of local products that embody the essence of Jeju.
-한국에서 유행하는 상품들을 쇼핑하고 싶어요.
-쇼핑가는 어디인가요?	I want to shop for popular Korean products.
-Where's the shopping district?
+한국에서 유행하는 상품들을 쇼핑하고 싶어요.	I want to shop for popular Korean products.
+쇼핑가는 어디인가요?	Where's the shopping district?
 시내로 들어가시면, 다양한 패션 상품과 선물가게들이 있어요.	If you go downtown, there are a variety of fashion items and gift shops.
 영업시간이 어떻게 되요?	When's the business hour?
 상점들은 일반적으로 오전 10시에서 오후 9시까지 영업합니다.	Usually, stores are open from 10 am to 9 pm.

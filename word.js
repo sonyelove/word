@@ -104,7 +104,7 @@ class Word {
                 .append( $("<label/>", {for:"chapter"+i}).append( $("<span/>", {text:this.db[i].title})));
             ul.append(li);
         }
-        const playButton = $("<div/>", {text:"▶️ play", class:"control-button play"}); 
+        const playButton = $("<div/>", {text:"play", class:"control-button play material-symbols-outlined"}); 
         chapterList.append(title).append(ul).append(playButton);
         this.cont.append(appTitle);
         this.cont.append(`
@@ -132,9 +132,13 @@ class Word {
         const wordCard = $("<div/>", {id:"word_card"}); 
         const word = $("<div/>", {id:"word"}); 
         const mean = $("<div/>", {id:"mean"}); 
-        const pauseButton = $("<div/>", {text:"⏸ pause", class:"control-button pause"}); 
+        const shuffleButton = $("<div/>", {text:"🔀  ⬅️🔀 shuffle", class:"control-button shuffle"}); 
+        const pauseButton = $("<div/>", {text:"pause", class:"control-button pause"}); 
         const backButton  = $("<div/>", {text:"⬅️ back" , class:"control-button back"}); 
         wordCard.append(word).append(mean);
+
+
+        wordCard.append(shuffleButton);
         wordCard.append(pauseButton);
         wordCard.append(backButton);
         wordCard.hide(); 
@@ -143,6 +147,10 @@ class Word {
         let _this = this;
         playButton.on("click", function(e){
             _this.play();            
+        });
+
+        shuffleButton.on("click", function(e){
+            _this.shuffle();            
         });
 
         pauseButton.on("click", function(e){
@@ -180,7 +188,7 @@ class Word {
             let idx = $(list[i]).val()*1;
             this.todoList = this.todoList.concat( this.db[idx].list ); 
         }
-        this.shuffle(this.todoList);    
+        //this.shuffle(this.todoList);    
         this.nextWord();
         this.status = "playing";
 
@@ -272,8 +280,8 @@ class Word {
         $("#chapter_list").show();
     }
 
-    shuffle(array) {
-        array.sort(() => Math.random() - 0.5);
+    shuffle() { 
+        this.todoList.sort(() => Math.random() - 0.5);
     }
 }
 
