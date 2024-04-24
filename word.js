@@ -118,9 +118,9 @@ class Word {
                 <select id="cf_delay">
                     <option value="2000">2</option>
                     <option value="3000">3</option>
-                    <option value="4000" selected>4</option>
+                    <option value="4000">4</option>
                     <option value="5000">5</option>
-                    <option value="6000">6</option>
+                    <option value="6000" selected>6</option>
                     <option value="7000">7</option>
                     <option value="8000">8</option>
                     <option value="9000">9</option>
