@@ -320,7 +320,7 @@ Unit04 - Shopping
 고객님과 잘 어울리시네요.	It suits you well.
 원 플러스 원 행사를 하고 있습니다.	We’re having a buy-one-get-one-free event.
 
-UNIT10 - 병원 및 약국(1)
+UNIT10 - 병원 및 약국
 창백해 보이네요.	You look pale.
 의사에게 가서 진찰을 받는 게 좋겠어요.	You'd better go see a doctor.
 뭐가 문제인가요? (어디가 아프신가요?)	What's the matter?
@@ -336,8 +336,6 @@ UNIT10 - 병원 및 약국(1)
 기침을 해요.	I have a cough.
 목이 아파요.	I have a sore throat.
 콧물이 나요.	I have a runny nose.
-
-UNIT10 - 병원 및 약국(2)
 발목을 삐었어요.	I sprained my ankle.
 다리가 부러졌어요.	I broke my leg.
 소화제를 주세요.	Please give me digestive medicine
@@ -366,7 +364,7 @@ UNIT11 - 질환, 병명
 그녀는 입덧을 해요.	She has morning sicknes
 그는 백혈병이에요.	He has leukemia.
 그는 뇌졸증이 한 번 왔었어요.	He had a stroke.
-그는 심장마비가 한 번 왔었어요.	She had a heart attack.
+그녀는 심장마비가 한 번 왔었어요.	She had a heart attack.
 그는 불면증이 있어요.	He has insomnia.
 그는 비염이 있어요.	He has sinus problems.
 그는 폐암이에요.	He has lung cancer.
