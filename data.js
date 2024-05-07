@@ -319,4 +319,60 @@ Unit04 - Shopping
 한 번 입어 보세요.	Please try it on.
 고객님과 잘 어울리시네요.	It suits you well.
 원 플러스 원 행사를 하고 있습니다.	We’re having a buy-one-get-one-free event.
+
+UNIT10 - 병원 및 약귝(1)
+창백해 보이네요.	You look pale.
+의사에게 가서 진찰을 받는 게 좋겠어요.	You'd better go see a doctor.
+뭐가 문제인가요? (어디가 아프신가요?)	What's the matter?
+어지러워요.	I feel dizzy.
+두통이 심해요.	I have a bad headache.
+오늘 몸은 좀 어때요?	How are you feeling today?
+오늘 아침은 별로 좋지 않네요.	I don't feel very well this morning.
+언제부터 그 증상이 있었나요?	How long have you had these symptoms?
+어제부터요.	Since yesterday.
+치통이 있어요.	I have a toothache.
+감기에 걸렸어요.	I have a cold.
+몸에 열이 나요.	I have a fever.
+기침을 해요.	I have a cough.
+목이 아파요.	I have a sore throat.
+콧물이 나요.	I have a runny nose.
+
+UNIT10 - 병원 및 약귝(2)
+발목을 삐었어요.	I sprained my ankle.
+다리가 부러졌어요.	I broke my leg.
+소화제를 주세요.	Please give me digestive medicine
+진통제를 주세요.	Please give me a painkiller.
+밴드를 사려고 합니다	I want some band aids.
+처방전이 필요합니까?	Do I need a prescription?
+이건 처방전 필요 없는 약(일반약)입니다.	This is an over-the-counter drug.
+얼마나 자주 이 약을 먹어야 하나요?	How often do I have to take this medicine?
+하루에 세 번 드세요.	Three times a day.
+어떻게 복용하면 되나요?	How do I take it?
+식후에 드세요.	Take it after meals.
+어제는 아팠는데 오늘은 나아졌어요.	I was sick yesterday, but l'm better today.
+열은 없는데, 아직도 기침이 나요.	My fever is gone, but I still have a cough.
+오른쪽 팔이 쑤시고, 오른손이 부었어요.	My right arm is sore. My right hand is swollen.
+몸조리 잘 하세요.	Take good care of yourself.
+
+UNIT11 - 질환, 병명
+그는 감기에 걸려있어요.	He has a cold.
+그는 피부병이 있어요.	He has a skin disease.
+그는 불치병이에요.	He has a terminal disease.
+그는 목 통증이 있어요	He has a neckache.
+그는 무좀이 있어요.	He has athlete's foot.
+그녀는 관절염이 있어요.	She has arthritis.
+그녀는 골다공증이 있어요.	She has osteoporosis.
+그녀는 편도선염이 있어요	She has tonsillitis.
+그녀는 입덧을 해요.	She has morning sicknes
+그는 백혈병이에요.	He has leukemia.
+그는 뇌졸증이 한 번 왔었어요.	He had a stroke.
+그는 심장마비가 한 번 왔었어요.	She had a heart attack.
+그는 불면증이 있어요.	He has insomnia.
+그는 비염이 있어요.	He has sinus problems.
+그는 폐암이에요.	He has lung cancer.
+그는 당뇨병이 있어요.	He has diabetes.
+저는 꽃가루 알러지가 있어요.	I'm allergic to pollen.
+저는 알러지 없어요.	I'm not allergic to anything.
+당신은 뭐에 알러지가 있어요?	What are you allergic to?
+그녀는 차멀미를 해요.	She gets carsick.
 `;
