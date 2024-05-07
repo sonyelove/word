@@ -141,15 +141,6 @@ let word_string =
 그녀는 부산에 있습니까?	Is she in Busan?
 
 Unit01 - 자기소개 및 가족
-어지럽히다. 지저분하게 하다.	make a mess
-여기서 소란피우지 마세요.	Don't make a scene here.
-얼굴 찌푸리지 마세요.	Don't make faces.
-이번 기회를 십분 활용하세요.	Make the most of this opportunity.
-이번 휴가를 만끽하세요.	Make the most of this vacation.
-고마워요. 어떻게 보답할 수 있을지요?	Thank you. How can I make it up to you?
-편하게 하세요.	Make yourself at home.
-그거 확실하게 해주세요.	Please make sure of it.
-네가 마스크를 분명히 챙겼는지 확실하게 해야 해서 전화했어.	I called you because I just wanted to make sure that you have your mask.
 안녕하세요. 저는 Nicole(니콜)입니다.	Hello, l'm Nicole.
 처음 뵙겠습니다.	How do you do?
 그럼 제 소개를 해 보겠습니다.	Let me introduce myself.
