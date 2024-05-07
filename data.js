@@ -320,7 +320,7 @@ Unit04 - Shopping
 고객님과 잘 어울리시네요.	It suits you well.
 원 플러스 원 행사를 하고 있습니다.	We’re having a buy-one-get-one-free event.
 
-UNIT10 - 병원 및 약귝(1)
+UNIT10 - 병원 및 약국(1)
 창백해 보이네요.	You look pale.
 의사에게 가서 진찰을 받는 게 좋겠어요.	You'd better go see a doctor.
 뭐가 문제인가요? (어디가 아프신가요?)	What's the matter?
@@ -337,7 +337,7 @@ UNIT10 - 병원 및 약귝(1)
 목이 아파요.	I have a sore throat.
 콧물이 나요.	I have a runny nose.
 
-UNIT10 - 병원 및 약귝(2)
+UNIT10 - 병원 및 약국(2)
 발목을 삐었어요.	I sprained my ankle.
 다리가 부러졌어요.	I broke my leg.
 소화제를 주세요.	Please give me digestive medicine
