@@ -364,4 +364,54 @@ UNIT11 - 질환, 병명
 저는 알러지 없어요.	I'm not allergic to anything.
 당신은 뭐에 알러지가 있어요?	What are you allergic to?
 그녀는 차멀미를 해요.	She gets carsick.
+
+Unit07. 스포츠 및 레저
+축구 경기를 보고 싶어요.	I want to watch a soccer game.
+오늘 경기가 있나요?	Is there a soccer game today?
+네, 있어요.	Yes, there is.
+어느 팀이 시합하는 거죠?	What teams are playing?
+경기는 어디서 하나요?	Where do they play? = where is the game?
+서귀포 월드컵 경기장입니다.	At the Seogwipo World Cup Stadium.
+ATV가 뭔가요?	What's an ATV?
+산악 오토바이를 말합니다.	It's an all-terrain vehicle.
+ATV를 체험하고 싶어요.	I'd like to ride an ATV.
+ATV 이용요금을 알고 싶어요.	I want to know the cost for an ATV.
+코스별로 달라요.	It depends on the course.
+기본코스는 25,000원입니다.	The basic course costs twenty-five thousand won.
+ATV 타려면 면허증이 필요한가요?	Do I need a license to ride an ATV?
+아니요. 필요 없습니다.	No, you don't need one.
+낚시에 관한 안내서가 있습니까?	Are there any guidelines for fishing?
+주로 어떤 생선이 많이 잡히나요?	What kinds of fish do you usually catch?
+요즘은 갈치가 제철입니다.	These days, hairtail is in season.
+안내자가 딸린 배를 빌리고 싶어요	I want to rent a boat with a guide.
+뱃삯은 얼마입니까?	How much is the fare?
+3시간에 10만원입니다.	It's one hundred thousand won for 3 hours.
+낚시 도구를 빌리고 싶은데요.	I'd like to rent fishing gear.
+승마를 하고 싶은데요.	I want to go horseback riding.
+초보자도 쉽게 탈 수 있습니까?	Can a beginner ride a horse?
+전 한 번도 해본 적이 없어요.	I've never tried it before.
+이번 주말에 승마하러 갈 계획이에요.	I'm planning to go horseback riding this weekend.
+같이 갈래요?	Do you want to join me?
+그럼요.	Sounds good.
+한 시간에 얼마입니까?	How much is it per hour?
+3만원입니다.	It's thirty thousand won.
+말 뒤에 서 있으면 위험합니다	It's dangerous to stand behind a horse.
+
+단군신화
+오랜 옛날에,	A long, long time ago.
+하늘의 아들 환웅이 세상을 다스렸습니다.	Hwanung, the son of Heaven, ruled the people
+호랑이와 곰이 살고 있었는데	There lived a tiger and a bear.
+그들은 사람이 되고 싶었습니다.	They wished to become humans.
+매일 환웅에게 기도했습니다.	They prayed everyday to Hwanung.
+환웅은 호랑이와 곰을 불러 마늘과 쑥을 주 었습니다.	Hwanung called them and gave them garlic and mugwort.
+만일 동굴에서 100일 동안 마늘과 쑥만 먹고 지낸다면,	If you eat only garlic and mugwort for 100 days in a cave,
+너희는 사람이 될 수 있다.	you can become a human.
+호랑이는 곧 포기했고,	The tiger soon gave up.
+곰은 홀로 동굴에 있었는데	The bear stayed in the cave all alone.
+100일 만에 그 곰은 아름다운 여자로 변했습니다.	Surprisingly, the bear became a beautiful woman 100 days later.
+환웅은 그녀를 그의 부인으로 삼았습니다.	Hwanung took her as his wife.
+그녀는 아들을 낳았습니다.	She gave birth to a son.
+그들은 그를 단군이라고 불렀습니다.	They named him Dangun.
+그는 자라서 고조선이라는 나라를 세웠습니다.	He grew up and established a country called Gojoseon.
+고조선은 한국 역사 최초의 국가입니다	It was the first kingdom in korean history.
 `;
