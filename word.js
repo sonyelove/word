@@ -330,6 +330,7 @@ function speech(txt, speed, opt) {
         if(voices[i].lang.indexOf(lang) >= 0 || voices[i].lang.indexOf(lang.replace('-', '_')) >= 0) {
             utterThis.voice = voices[i];
             voiceFound = true;
+            break;
         }
     }
     if(!voiceFound) {
