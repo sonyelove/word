@@ -76,7 +76,7 @@ class Word {
             for(let j=0; j<sItems.length; j++){
                 sItems[j] = sItems[j].trim();
                 if(!sItems[j]) continue;
-                let item = sItems[j].split("\t");
+                let item = sItems[j].split(":");
                 if( !ctitle ){
                     ctitle = item.length==1 ? item[0] : "No TITLE";
                     continue;
