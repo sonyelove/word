@@ -246,7 +246,7 @@ Unit04 - 한글
 반면에 한자는 뜻을 담은 문자이다.:On the contrary, Chinese characters are ideograms. Chinese characters represent ideas.
 당신의 이름을 한글로 써 볼게요:Let me write your name in Korean.
 
-Unit05 - Weather
+Unit05 - 날씨
 오늘 날씨는 어떤가요?:What's the weather like today?
 오늘은 맑습니다.:It's sunny.
 오늘은 흐립니다.:It's cloudy.
@@ -278,7 +278,7 @@ Unit05 - Weather
 일기예보에 따르면 오늘 비 온대요.:The forecast says it's going to rain today.
 날씨가 변덕스럽네요.:The weather is unpredictable.
 
-Unit04 - Shopping
+Unit06 - 쇼핑
 토산품점을 한번 가보세요.:How about going to a Jeju specialties store?
 제주도 특색이 나는 다양한 상품들이 있어요.:They have lots of local products that embody the essence of Jeju.
 한국에서 유행하는 상품들을 쇼핑하고 싶어요.:I want to shop for popular Korean products.
@@ -414,4 +414,57 @@ ATV 타려면 면허증이 필요한가요?:Do I need a license to ride an ATV?
 그들은 그를 단군이라고 불렀습니다.:They named him Dangun.
 그는 자라서 고조선이라는 나라를 세웠습니다.:He grew up and established a country called Gojoseon.
 고조선은 한국 역사 최초의 국가입니다:It was the first kingdom in korean history.
+
+Unit08. 음식 및 식당
+근처에 좋은 식당을 추천해 주세요. :Please recommend a good restaurant nearby.
+주문하실 준비 되었나요? :Are you ready to order?
+주문하시겠습니까? :Would you like to order?
+추천 메뉴는 뭐가 있나요? :What do you recommend?
+저는 스테이크로 주문하겠습니다. :I'll have steak.
+스테이크는 어떻게 익혀드릴까요? :How would you like your steak?
+중간정도로 익혀주세요. :Midium-well, please.
+고수는 빼주세요. :Hold the cilantro, please.
+예약하려고 합니다. :I'd like to make a reservation.
+일행이 몇 분이십니까? :How many people are there in your party?
+5명이요. 5인테이블 하나 예약하려고 해요. :Five, I'd like to book a table for 5.
+저녁 6시 30분에 가겠습니다. :We'll arrive at 6:30 p.m.
+이 식당에서 가장 잘 나가는 게 뭐죠? :What's this restaurant's specialty?
+갈치조림을 추천합니다. :I recommend the boiled hair-tail.
+고등어구이 한 번 꼭 드셔보세요. :You should try grilled mackerel.
+전복죽이 제일 잘 나갑니다. :Abalone porridge is our specialty.
+저는 냉면 주세요(냉면 먹을게요) :I'll have cold noodles.
+비빔냉면 한 그릇과 물냉면 한 그릇 주세요. :We'll have one bowl of spicy noodles and a cold noodle soup.
+이건 식초와 겨자입니다. 취약에 따라 넣으세요. :These are vinegar and mustard. Use as much as you like.
+새콤달콤하네요. :It's sweet and sour.
+너무 맵지 않게 해 주세요. :Please don't make it very spicy.
+더 필요한 건 없습니까? :Do you need anything else?
+반찬도 몇 개 더 갖다 주세요. :Would you please refill these side dishes?
+빈 접시 좀 갖다 주세요. :Would you please give me an extra plate?
+손님, 빈 그릇을 치워드려도 될까요? :May I clear away these plates for you, sir?
+아니요, 아직 다 못 먹었어요. :No, thank you. I'm not done yet.
+맛있게 드셨어요? :Did you enjoy your meal?
+네, 맛있었고, 종업원도 친절하네요. :Yes, the food was delicious and the service was excellent.
+이것 좀 포장해 주실래요? :Can you wrap this up for me, please?
+신용카드로 계산해도 되나요? :May I play by credit card?
+
+동사원형
+그건 코스별로 달라요. :It depends on the course.
+기본코스는 25,000원입니다. :The basic course costs twenty five thousand won.
+그녀는 테니스를 친다. :She plays tennis.
+그는 재활용품을 분류한다. :He sorts out the recyclables.
+제인은 그녀의 가방을 여기에 둔다. :Jane puts her bag here.
+탐은 정원을 본다. :Tom looks at the garden.
+그 남자는 항상 청바지를 입는다. :The man always wears jeans.
+그녀는 초콜릿 쿠키를 산다. :She buys choicolat cookies.
+승자가 모든 것을 가져간다 :The winner takes it all.
+그는 버스에 탄다. :He gets on the bus.
+여름에는 비가 많이 온다. :It rains a lot in summer.
+겨울에는 눈이 많이 온다. :It snows a lot in winter.
+그는 매일 산책을 한다. :He takes a walk everyday.
+그녀는 내가 필요하다. :She needs me.
+제누에는 비가 많이 온다. :Jeju has a lot of rain.
+해는 동쪽에서 뜨고, 서쪽에서 진다. :The sun rises in the east and sets in the west.
+그는 보통 8시에 출근한다. :He usually goes to work at 8.
+그는 보통 6시에 퇴근한다. :He usually leaves the office at 6.
+이 영어책은 많은 학생들이 영어 능력을 향상시키는데 도움을 준다. :This English book helps a lot of students to improve their English skills a lot.
 `;
