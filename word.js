@@ -223,7 +223,7 @@ class Word {
         $("#word").html(word);  
         if( this.conf.sound ){
             window.speechSynthesis.cancel();
-            speech(word, this.conf.soundSpeed, 0);
+            speech(word, this.conf.soundSpeed, "ko-KR");
         } 
         
         let _this = this;
@@ -239,7 +239,7 @@ class Word {
         
         if( this.conf.sound ){
             window.speechSynthesis.cancel();
-            speech(mean, this.conf.soundSpeed, 1);
+            speech(mean, this.conf.soundSpeed, "en-US");
         }
 
         let _this = this;
@@ -304,10 +304,7 @@ function speech(txt, speed, opt) {
     //    lang = "en-US"; 
     //}
 
-    let lang = "ko-KR";
-    if(!opt){
-        lang = "en_US";
-    }
+    let lang = opt;
 
     if(!window.speechSynthesis) {
         alert("음성 재생을 지원하지 않는 브라우저입니다. 크롬, 파이어폭스 등의 최신 브라우저를 이용하세요");
