@@ -1,4 +1,4 @@
-const APP_TITLE = "ENGLISH STUDY HARD";
+const APP_TITLE = "Lucy's ENGLISH";
 
 class Word {
     contId = "";
@@ -223,7 +223,7 @@ class Word {
         $("#word").html(word);  
         if( this.conf.sound ){
             window.speechSynthesis.cancel();
-            speech(word, this.conf.soundSpeed);
+            speech(word, this.conf.soundSpeed, 0);
         } 
         
         let _this = this;
@@ -239,7 +239,7 @@ class Word {
         
         if( this.conf.sound ){
             window.speechSynthesis.cancel();
-            speech(mean, this.conf.soundSpeed);
+            speech(mean, this.conf.soundSpeed, 1);
         }
 
         let _this = this;
@@ -297,11 +297,16 @@ if (window.speechSynthesis.onvoiceschanged !== undefined) {
     window.speechSynthesis.onvoiceschanged = setVoiceList;
 }
 
-function speech(txt, speed) {
+function speech(txt, speed, opt) {
     
+    //let lang = "ko-KR";
+    //if( /^[a-zA-Z0-9]/.test(txt) ){
+    //    lang = "en-US"; 
+    //}
+
     let lang = "ko-KR";
-    if( /^[a-zA-Z0-9]/.test(txt) ){
-        lang = "en-US"; 
+    if(!opt){
+        lang = "en_US";
     }
 
     if(!window.speechSynthesis) {
@@ -312,6 +317,7 @@ function speech(txt, speed) {
     //var lang = 'ko-KR';
     
     var utterThis = new SpeechSynthesisUtterance(txt);
+
 
     utterThis.onend = function (event) {
         console.log('end');
@@ -337,6 +343,7 @@ function speech(txt, speed) {
     utterThis.lang = lang;
     utterThis.pitch = 1;
     utterThis.rate = speed; //속도
+
 
     //window.speechSynthesis.cancel();
     window.speechSynthesis.speak(utterThis);
