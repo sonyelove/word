@@ -76,7 +76,7 @@ li:hover{
 }
 
 #word {
-    font-size: 4vw;
+    font-size: 5vw;
     color: #b9b9b9;
     border: 3px solid #505565;
     padding: 20px;
@@ -86,7 +86,7 @@ li:hover{
 
 #mean {
     margin-top : 10px;
-    font-size: 4vw;
+    font-size: 5vw;
     color: #b9b9b9;
     border: 3px solid #323233;
     padding: 20px;
