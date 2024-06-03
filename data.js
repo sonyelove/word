@@ -497,7 +497,7 @@ Unit09. 커피숍 및 패스트푸드점
 커피(티) 조금 적게 넣어 드릴까요? !Do you want some room at the top?
 같은 걸로 먹을게요. !I'll have the same.
 조금 늦게 주문해도 될까요? 일행을 기다리고 있어요. !Can I order a little late? I'm expecting company.
-워가 빨리 돼요? !What can you serve quickly?
+뭐가 빨리 돼요? !What can you serve quickly?
 현재 자리가 만석입니다. !All our tables are full at the moment.
 저희 커피숍은 10시까지입니다. !Our coffee shop will close at 10 PM.
 
@@ -508,7 +508,7 @@ Unit09. 커피숍 및 패스트푸드점
 그녀는 치마에 흙을 담아 날랐다. !She carried the dirt in her skirt.
 그 치마에 구멍이 나게 되었다. !The skirt had holes in it.
 흙덩어리들이 새어나왔다. !Some clumps of dirt fell out.
-그 흙덩어들이 제주의 언덕이 되었다. !Those clumps of dirt became Jeju's hills.
+그 흙덩이들이 제주의 언덕이 되었다. !Those clumps of dirt became Jeju's hills.
 우리는 그 언덕을 '오름'이라고 한다. !We call those hills 'oreum', volcanic cones.
 다랑쉬 오름을 만들고나서, 그것이 너무 크다고 생각했다. !After making Darangswi Oreum, she decided it was too big.
 그래서 주먹으로 그 꼭대기(봉우리)를 쳤다. !So she smacked the peak with her fist.
