@@ -478,7 +478,7 @@ Unit09. 커피숍 및 패스트푸드점
 커피에 시럽을 넣을까요? !Would you like syrup in your coffee?
 3번 세트로 주세요. !Set number three, please.
 음료수는 무엇으로 드릴까요? !What would you like to drink?
-설탕 좀 주시겠어요? !Mauy I have some sugar?
+설탕 좀 주시겠어요? !May I have some sugar?
 햄버거를 반으로 잘라 주세요. !Please cut this hamburger in half.
 리필도 가능한가요? !Are refills available?
 1회에 한해서 가능합니다. !Just one refill only.
