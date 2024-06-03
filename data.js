@@ -462,9 +462,60 @@ Unit08. 음식 및 식당
 겨울에는 눈이 많이 온다. !It snows a lot in winter.
 그는 매일 산책을 한다. !He takes a walk everyday.
 그녀는 내가 필요하다. !She needs me.
-제누에는 비가 많이 온다. !Jeju has a lot of rain.
+제주에는 비가 많이 온다. !Jeju has a lot of rain.
 해는 동쪽에서 뜨고, 서쪽에서 진다. !The sun rises in the east and sets in the west.
 그는 보통 8시에 출근한다. !He usually goes to work at 8.
 그는 보통 6시에 퇴근한다. !He usually leaves the office at 6.
 이 영어책은 많은 학생들이 영어 능력을 향상시키는데 도움을 준다. !This English book helps a lot of students to improve their English skills a lot.
+
+Unit09. 커피숍 및 패스트푸드점
+주문하시겠어요? !Can I take your order?
+치즈버거와 콜라 하나 주세요. !One cheeseburger and a coke, please.
+치즈버거는 10분 정도 걸려요. 괜찮으시겠어요? !It'll take ten minutes. Is that all right?
+네, 괜찮습니다. !Yes, that's fine.
+감자튀김이랑 아이스커피 주세요. !French fries and an iced coffee, please.
+카페라떼 한 잔 주세요. !One cafe latte, please.
+커피에 시럽을 넣을까요? !Would you like syrup in your coffee?
+3번 세트로 주세요. !Set number three, please.
+음료수는 무엇으로 드릴까요? !What would you like to drink?
+설탕 좀 주시겠어요? !Mauy I have some sugar?
+햄버거를 반으로 잘라 주세요. !Please cut this hamburger in half.
+리필도 가능한가요? !Are refills available?
+1회에 한해서 가능합니다. !Just one refill only.
+500원이 추가됩니다. !Each refill is five hundred won.
+나는 물 보다 커피를 더 많이 마신다.(커피 마니아이다.) !I drink more coffee than water.(I'm a coffee maniac.)
+여기서 드실 건가요, 아니면 포장인가요? !For here or to go?
+여기서 먹을 겁니다. !For here, please.
+가지고 갈 겁니다. !To go, please.
+할인카드 있으신가요? !Do you have a discount card?
+네, 있습니다. !Yes, I do.
+할인 받으셔서 3,600원입니다. !It's three thousand six hundred won with the discount(after the discount).
+인터넷 사용할 수 있나요? !Can I use the internet?
+여기 와이파이 되나요? !Is wifi available here?
+여기 자리 있나요?(빈자리인지?) !Is this seat taken?
+빨대 하나 주시겠어요? !Can I get a straw?
+커피(티) 조금 적게 넣어 드릴까요? !Do you want some room at the top?
+같은 걸로 먹을게요. !I'll have the same.
+조금 늦게 주문해도 될까요? 일행을 기다리고 있어요. !Can I order a little late? I'm expecting company.
+워가 빨리 돼요? !What can you serve quickly?
+현재 자리가 만석입니다. !All our tables are full at the moment.
+저희 커피숍은 10시까지입니다. !Our coffee shop will close at 10 PM.
+
+설문대할망
+사람들은 한 거대한 여신이 제주섬을 창조했다고 한다. !People say that a giant goddess created Jeju Island.
+그들은 그녀를 설문대 할망이라고 부른다. !They call her Grandmother Seolmundae.
+그녀는 흙을 쌓아 올려 한라산을 만들었다. !She created Halla Mountain by piling up dirt.
+그녀는 치마에 흙을 담아 날랐다. !She carried the dirt in her skirt.
+그 치마에 구멍이 나게 되었다. !The skirt had holes in it.
+흙덩어리들이 새어나왔다. !Some clumps of dirt fell out.
+그 흙덩어들이 제주의 언덕이 되었다. !Those clumps of dirt became Jeju's hills.
+우리는 그 언덕을 '오름'이라고 한다. !We call those hills 'oreum', volcanic cones.
+다랑쉬 오름을 만들고나서, 그것이 너무 크다고 생각했다. !After making Darangswi Oreum, she decided it was too big.
+그래서 주먹으로 그 꼭대기(봉우리)를 쳤다. !So she smacked the peak with her fist.
+그래서 그런 큰 굼부리가 있는 것이다. !That is why it has such a large crater.
+설문대 할망은 육지로 연결하는 다리를 놓겠다고 말했는데, !Grandmother Seolmundae said she would make a bridge to the mainland,
+만약 제주 사람들이 그녀에게 옷을 만들어주면, !if the people of Jeju made her some clothing.
+천(명주)이 100동이 필요했는데 99동 밖에 모으지 못했다. !They needed 100 rolls of cloth, but only had 99.
+그래서 그 다리는 결코 완성되지 못했다. !So the bridge was never finished.
+
 `;
