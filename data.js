@@ -518,4 +518,37 @@ Unit09. 커피숍 및 패스트푸드점
 천(명주)이 100동이 필요했는데 99동 밖에 모으지 못했다. !They needed 100 rolls of cloth, but only had 99.
 그래서 그 다리는 결코 완성되지 못했다. !So the bridge was never finished.
 
+Unit12. 올레
+U12 올레
+올레가 무엇인가요? !What is an "Olle"?
+올레는 제주방언이에요.	!Olle is a word in the Jeju dialect.
+그건 집 대문에서 미을길까지 이어주는 아주 좁은 골목을 의미해요.	!It means a narrow path leading from the gate of a house to a village road.
+올레코스는 도보여행자를 위해 만들어진 길입니다.	!The Olle courses are designed for hikers.
+올레는 전부 몇 코스인가요?	!How many Olle courses are there?
+총 26코스입니다.	!There are twenty six courses.
+올레코스는 제주 전체를 따라 연결되어 있습니다.	!The Olle courses go all the way around Jeju island.
+7코스는 어디서부터 시작하나요?	!Where does Course 7 start?
+그건 서귀포의 외돌개에서 시작해요.	!It starts at Woedolgae in Seogwipo.
+그 출발지로 어떻게 가나요?	!How can I get to the starting point?
+한 코스당 보통 몇 시간 걸리나요?	!How long does it take to do one course?
+대략 5~6시간 걸립니다.	!It takes about 5-6 hours.
+제주올레의 캐치프레이즈는 '놀멍, 쉬명, 걸으멍'입니다.	!The motto of Jeju Olle is 'Have Fun, Relax and Walk.'
+'간세'는 제주방언 간세다리'에서 따온 말입니다.	!'Ganse' is derived from 'Gansedari" in the Jeju dialect.
+그건(간세는) 게으름피우는 것 (빈둥빈둥하기)을 의미합니다.	!It means 'being lazy.'
+올레 코스를 걷는 것은 내 취미이다. !Hiking the Olle trails is my hobby.
+간세는 조랑말 형상의 올레 이정표입니다	!A Ganse is the trail marker shaped like a Jeju pony.
+올레 코스 길목마다 올레 이정표가 있습니다.	!There are trail markers at each turn on the Olle courses.
+걷다가 길을 잃기도 하나요?	!Do people ever get lost on the Olle trails?
+파란, 주황색 리본을 따라 걸으시면 됩니다.	!You just follow the blue and orange ribbons.
+올레 코스를 추천해 주세요.	!Please recommend an Olle course.
+7코스를 추천합니다.	!I recommend Course 7.
+7코스 주변 숙박할만한 곳 추천해 주세요.	!Please recommend a B&B along Course 7.
+'드림' 민박을 추천합니다.	!I recommend 'Dream Guest House'.
+10코스 주변 맛집을 추천해 주세요.	!Please recommend a good restaurant along Course 10.
+'괸당네' 식당을 추천합니다.	!I recommend 'Gwendangnae' Restaurant.
+쓰레기는 반드시 가져가 주세요.(여기 버리지 마세요.)	!Please don't litter.
+자세한 사항은 제주올레 홈페이지를 참조해 주세요.	!For more information, please visit the Jeju Olle Web site.
+올레길은 보통 그늘이 없어요. 여름엔 가지 않는 게 좋아요.	!There is no shade along the Olle traiis so summer isn't the best time to go.
+올레는 봄, 가을에 가면 좋아요. !Spring and fall are the best times to walk the Olle trails.
+
 `;
