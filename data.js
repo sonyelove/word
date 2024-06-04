@@ -547,7 +547,7 @@ Unit12. 올레
 '괸당네' 식당을 추천합니다.	!I recommend 'Gwendangnae' Restaurant.
 쓰레기는 반드시 가져가 주세요.(여기 버리지 마세요.)	!Please don't litter.
 자세한 사항은 제주올레 홈페이지를 참조해 주세요.	!For more information, please visit the Jeju Olle Web site.
-올레길은 보통 그늘이 없어요. 여름엔 가지 않는 게 좋아요.	!There is no shade along the Olle traiis so summer isn't the best time to go.
+올레길은 보통 그늘이 없어요. 여름엔 가지 않는 게 좋아요.	!There is no shade along the Olle traiㅣs so summer isn't the best time to go.
 올레는 봄, 가을에 가면 좋아요. !Spring and fall are the best times to walk the Olle trails.
 
 `;
