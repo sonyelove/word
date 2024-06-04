@@ -519,7 +519,6 @@ Unit09. 커피숍 및 패스트푸드점
 그래서 그 다리는 결코 완성되지 못했다. !So the bridge was never finished.
 
 Unit12. 올레
-U12 올레
 올레가 무엇인가요? !What is an "Olle"?
 올레는 제주방언이에요.	!Olle is a word in the Jeju dialect.
 그건 집 대문에서 미을길까지 이어주는 아주 좁은 골목을 의미해요.	!It means a narrow path leading from the gate of a house to a village road.
