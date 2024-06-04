@@ -531,7 +531,7 @@ Unit12. 올레
 그 출발지로 어떻게 가나요?	!How can I get to the starting point?
 한 코스당 보통 몇 시간 걸리나요?	!How long does it take to do one course?
 대략 5~6시간 걸립니다.	!It takes about 5-6 hours.
-제주올레의 캐치프레이즈는 '놀멍, 쉬명, 걸으멍'입니다.	!The motto of Jeju Olle is 'Have Fun, Relax and Walk.'
+제주올레의 캐치프레이즈는 '놀멍, 쉬멍, 걸으멍'입니다.	!The motto of Jeju Olle is 'Have Fun, Relax and Walk.'
 '간세'는 제주방언 간세다리'에서 따온 말입니다.	!'Ganse' is derived from 'Gansedari" in the Jeju dialect.
 그건(간세는) 게으름피우는 것 (빈둥빈둥하기)을 의미합니다.	!It means 'being lazy.'
 올레 코스를 걷는 것은 내 취미이다. !Hiking the Olle trails is my hobby.
