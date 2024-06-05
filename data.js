@@ -550,4 +550,36 @@ Unit12. 올레
 올레길은 보통 그늘이 없어요. 여름엔 가지 않는 게 좋아요.	!There is no shade along the Olle traiㅣs so summer isn't the best time to go.
 올레는 봄, 가을에 가면 좋아요. !Spring and fall are the best times to walk the Olle trails.
 
+Unit13. 휴대폰, 소셜미디어
+인터넷 접속이 안돼요.	!I can't access the internet
+와이파이 비밀번호를 입력해야 해요.	!You need to enter a wifi password.
+주소록에 제 전화번호를 저장해 놔요.	!Put my number in your contacts list.
+집에 도착하면 문자 보낼게요.	!I'll text you when I get home.
+휴대폰을 떨어뜨렸더니 액정에 금이 갔어요.	!I dropped my cell phone and the screen is cracked.
+배터리가 다 나갔어요.	!The battery is dead.
+배터리 충전이 안돼요.	!The battery won't charge.
+전화기를 수리점으로 보내세요.	!Send your phone to the repair center.
+여보세요. Mr. Kim 좀 바꿔 주시겠어요?	!Hello, may I speak to Mr. Kim?
+누구세요?	!Who's calling?
+저는 James Bond에요.	!This is James Bond.
+잠시만요. (끊지 말고 기다려 주세요.)	!Hold on, please.
+메시지 남기시겠어요?	!Would you like to leave a message?
+미안해요. 전화기를 무음모드로 설정해 놓았거든요.	!I'm sorry. I put my phone on silent.
+제 전화기의 메모리가 사진과 동영상 때문에 꽉 찼어요.	!My phone memory is full because of my photos and videos.
+공간이 확보되도록 파일들을 지우세요.	!Delete some files to make space.
+상사가 페이스북에서 친구신청을 했어요.	!My boss friended me on Facebook.
+이제 그가 상태를 업데이트 할 때마다 '좋아요'를 눌러야겠네요.	!Now you should press the "like" button whenever he makes a status update.
+그가 트위터에서 당신을 팔로우 하고 있어요.	!He's following you on Twitter.
+소리가 자꾸 끊겨요. (휴대폰 통화시...)	!You're breaking up.
+내 핸드폰 수신상태가 안 좋아요.	!My cell phone isn't getting good reception.
+엘리베이터에서는 수신상태가 안 좋아요.	!We get bad reception in the elevator.
+이렇게 늦게 전화해서 미안해요.	!I'm sorry for calling you this late.
+방해한 게 아니었으면 해요.	!I hope l'm not disturbing you. (Sorry for interrupting.)
+듣고 있는 거예요? (여보세요?)	!Are you still there?
+전화 했는데 통화 중이더라고요.	!I called you but your line was busy.
+당신 전화를 기다리고 있었어요.	!I was expecting your call.
+미안하지만, 잘못 거셨어요.	!Sorry, you have the wrong number.
+금방 전화 다시 할게요.	!I'll get back to you soon.
+이제 전화 끊어야겠어요. 그럼...	!I have to go now. Bye.
+
 `;
