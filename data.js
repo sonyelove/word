@@ -582,4 +582,72 @@ Unit13. 휴대폰, 소셜미디어
 금방 전화 다시 할게요.	!I'll get back to you soon.
 이제 전화 끊어야겠어요. 그럼...	!I have to go now. Bye.
 
+Unit14. 오일장 및 재래시장
+오일장이 무엇인가요? !What is a five-day market?
+오일에 한번씩 열리는 시장입니다. !The market opens every five days.
+오일장에서는 어떤 물건을 팝니까? !What kind of things do they sell?
+생활에 필요한 건 모두 팝니다. !Everything we need in our daily lives.
+제주시는 2일 7일이 들어가는 날짜에 열립니다. !The five-day market opens on days ending in 2 and 7 in Jeju City.
+김치를 어디서 사면 되나요? !Where can I buy Kimchi?
+동문시장을 추천해요. !I recommend Dongmun market.
+1kg에 얼마인가요? !How much is 1kg?
+1kg당 오천원입니다. !It's five-thousand won for 1kg.
+이 과일은 뭔가요? !What's this fruit?
+한라봉입니다. 제주도 특산품입니다. !It's Hallabong. Jeju's special product.
+한번 맛보세요. !Please try it.
+생선이 싱싱한가요? !Is this fish fresh?
+무슨 생성인가요? !What kind of fish is it?
+여기서 직접 썰어 드릴 수 있습니다. !We can prepare the fish so that you can have it here.
+양식인가요? 자연산인가요? !Is it farmed? Is it fresh-caught? (wild-caught, all-natural)
+한 접시에 2만원입니다. !It's twenty-thousand won per plate.
+
+Unit15. 제주문화
+제주는 예로부터 '삼다', '삼무'의 섬이었습니다. !Jeju is called an island of 'Samda' and 'Sammu'.
+삼다'는 세 가지가 많다'는 뜻입니다. !'Samda' means '3 abundances'.
+그 세 가지는 돌, 바람, 여자입니다.	!These 3 things are rocks, wind, and women.
+'삼무'는 '세 가지가 없다'는 뜻입니다. !'Sammu means '3 absences'.
+그 세 가지는 거지, 도둑, 대문입니다.	!These 3 things are beggars, thieves, and gates.
+제주의 해녀는 제주여성의 강인함과 근면함을 상징합니다.	!Jeju's 'haenyeo, or women divers, symbolize the strength and diligence of Jeju women.
+해녀들은 바다에 잠수해서 전복, 소라, 성게 등을 땁니다. !Women divers dive into the sea and catch abalone, conches and sea urchins.
+요즘은 그 숫자가 크게 줄어들었습니다.	!These days, the number of women divers has decreased a lot.
+'테우'는 제주 전통배입니다.	!'Tewoo' is a traditional Jeju raft.
+통나무를 엮어 만들었습니다.	!It was made from several logs tied together.
+주로 연안에서 어업 할 때 사용했습니다.	!It was used to fish in the waters close to shore.
+제주는 한국 최남단의 섬입니다.	!Jeju is the southernmost island of Korea.
+제주에는 360개가 넘는 오름이 있습니다.	!Jeju has more than three hundred and sixty volcanic cones.
+한라산 등반 코스는 5개가 있습니다.	!There are 5 hiking trails on Halla mountain.
+한라산을 오르는 코스는 관음사코스, 어리목코스, 성판악코스, 영실코스, 돈내코코스가 있습니다. !The 5 trails are the Gwaneumsa temple course, Eorimok course, Seongpanak course, Youngsil course, and Donneco course.
+
+Unit17. 공항	
+예약하려고 합니다. !I'd like to make a reservation.
+통로 쪽 좌석 부탁드립니다.	!An aisle seat, please.
+왕복권요 아니면 편도요?  !Round-trip or one-way?
+뉴욕행 왕복 항공권 주세요.	!I'd like a round-trip ticket to New York.
+모든 항공편이 예약완료예요.	!All the flights are full.
+비행기 편을 바꾸고 싶습니다.	!I'd like to change my flight.
+예약을 확인하려구요.	!I'd like to confirm my flight.
+짐을 세 개 부치려고 합니다.	!I'd like to check three bags.
+저건 가지고 타실 짐인가요?	!Is that your carry-on?
+출국수속은 어디서 하나요?	!Where should I go for international departures? (Where can I check in for international departures?)
+국내선 출발은 3층으로 가시면 됩니다.	!For domestic departures, please go to the third floor.
+면세점은 어디에 있습니까?	!Where is the duty-free shop?
+서귀포로 가는 버스가 있나요?	!Are there buses to Seogwipo City?
+1번 게이트로 나가시면, 정류장이 있습니다.	!There is a bus stop outside Gate 1.
+그곳에서 600번 버스를 타시면 돼요.	!You can take bus number 600 there.
+요금은 서귀포까지 5,000원입니다.	!The bus fare to Seogwipo is 5,000 won.
+그 버스는 호텔입구에 정차합니다.	!The bus stops in front of hotels.
+그 버스에는 영어 안내방송이 나옵니다. !The bus will broadcast an announcement in English.
+어디서 택시를 탈 수 있나요?	!Where can I catch a taxi?
+공항건물을 나와서 길을 건너세요.	!Exit the airport terminal and cross the street.
+그러면 택시 탑승장이 보일 거예요.	!You will see a taxi stand.
+공항에서 제주 토산품을 구입할 수 있어요.	!You can buy local Jeju products at the airport.
+약국은 어디 있습니까?	!Where is the pharmacy?
+3층에 있어요.	!It's on the third floor.
+식당은 2층에 있어요. !Restaurants are on the second floor.
+여권 좀 보여 주시겠어요.	!May I see your passport?
+당신의 방문 목적은 무엇입니까?	!What's the purpose of your visit?
+여행을 위해서요.	!Travelling. / Sightseeing. I'm here for sightseeing.
+출장차 온 겁니다.	!I'm here on business.
+약 1주일 정도 머물 겁니다.	!I'll stay for about a week.
+
 `;
