@@ -650,4 +650,68 @@ Unit17. 공항
 출장차 온 겁니다.	!I'm here on business.
 약 1주일 정도 머물 겁니다.	!I'll stay for about a week.
 
+Unit19. 언어
+영어를 할 줄 아세요?	!Do you speak English?
+네, 조금요.	!Yes, just a little.
+당신의 친구는 중국어를 잘하나요?	!Does your friend speak Chinese well?
+아니오, 그는 중국어를 거의 못해요.	!No, he speaks very little Chinese.
+저는 영어를 거의 못해요.	!I speak very little English.
+당신의 영어는 나쁘지 않아요.	!Your English isn't bad.
+그는 영어를 유창하게 해요.	!He speaks English fluently.
+제 모국어는 한국어에요.	!My native language is Korean.
+그녀의 모국어는 스페인어에요.	!Her mother tongue is Spanish.
+몇 개 국어를 하세요?	!How many languages do you speak?
+저는 3개 국어를 해요.	!I speak three languages.
+그녀의 영어 실력은 어때요?	!How's her English?
+중국어를 얼마나 잘 하세요?	!How well do you speak Chinese?
+저는 발음하는데 어려움이 많아요.	!I have a lot of trouble with pronunciation.
+저는 한국어식 억양으로 영어를 말해요.	!I speak English with a Korean accent.
+그는 독일어를 매우 잘해요.	!He speaks German quite well.
+저는 문법에 어려움이 많아요.	!I have a lot of trouble with grammar.
+어디서 영어를 배웠나요?	!Where did you learn English?
+저는 영어시험에서 만점을 받았어요.	!I got a perfect score on my English test.
+당신의 모국어는 무엇입니까?	!What's your native language (mother tongue)?
+영어 공부하러 외국에 가본 적 있나요?	!Have you ever been abroad to learn English?
+네, 캐나다에 가본 적이 있어요.	!Yes, l've been to Canada.
+랭귀지 코스하러 한 번도 해외에 가 본적이 없어요.	!I've never gone abroad for a language course.
+관광홈페이지에 영어로 된 정보가 제공됩니다.	!English is available on the tourism homepage.
+정류장마다 버스에 영어로 된 안내방송이 나옵니다.	!At each stop, buses broadcast an announcement in English.
+이 박물관에는 영어 서비스가 제공됩니다.	!This museum offers services (information) in English.
+우리는 왜 영어를 배우는가?	!Why do we learn English?
+영어는 세계와 소통하는 도구이다.	!English is a tool to communicate with the world.
+영어를 가지고, 당신은 조금 더 넓은 대화의 일부분이 될 수 있다.	!With English, you can become a part of a wider conversation.
+영어는 세계 공통의 문제를 해결하는 공통의 언어이다. !English is a common language used to solve the world's shared problems.
+
+Unit20. 민원응대
+민원	!civil petitions, civil complaints, civil affairs
+행정서비스	!public administrative services
+민원 업무	!civil affairs
+증명서 발급	!certificate issuance
+주민등록등본을 떼려고 합니다.	!I want to get a residence certificate. (certificate of residence)
+우선 번호표기계에서 번호표를 뽑아주세요.	!Please take a number from the ticket machine.
+제가 증명서 발급담당입니다.	!I'm in charge of issuing certificates.
+신청서를 작성해 주십시오.	!Please fill out the application.
+아래에 서명을 해주십시오.	!Please sign it at the bottom.
+약간의 수수료가 있습니다.	!You have to pay a small fee.
+무인발급기를 이용하실 수 있습니다.	!You can use an automated machine.
+추가문의사항은 담당자에게 연락해 보세요.	!Please contact the person in charge for more information.
+불편함을 겪게 해서 죄송합니다.	!Sorry for the inconvenience.
+신분증 좀 보여 주세요.	!Please show me your ID card.
+저는 외국인 등록증이 있어요.	!I have an Alien Registration Card.
+관할 부서에 연락해 놓겠습니다.	!We will contact the department in charge.
+신속히 처리하겠습니다.	!We will deal with this as soon as possible.
+경찰의 도로 음주운전 단속이 있습니다.	!Police officers conduct field sobriety tests.
+술에 취한 운전자들이 가끔 음주측정을 거부합니다.	!Some drunk drivers refuse the breathalyzer test.
+그의 혈중 알콜 농도는 0.1%였다.	!His blood alcohol level was 0.1%. (*blood alcohol concentration)
+무엇을 도와드릴까요?	!How may I help you?
+제가 안내해 드리겠습니다.	!I'll show you.
+더 필요한 건 없나요?	!Is there anything else I can do for you?
+당신이 제한 속도보다 시속 25km이상 운전하셨기 때문에 과속딱지를 뗀 것입니다.	!We issued the speeding ticket because you drove 25 km/h over the speed limit.
+주민등록증을 잃어 버리셨어요?	!Did you lose your residence ID card?
+주민센터에 가보세요.	!Please go to a community (service) center.
+우선, 신청서 접수해 주세요.	!First, you need to submit an application.
+신청서 접수한 지가 2주 정도 지났습니다.	!I submitted my application about 2 weeks ago.
+죄송합니다. 곧 처리되도록 조치해 놓겠습니다.	!Sorry. I'll make sure that they process it soon.
+죄송합니다만, 예외는 없습니다.	!Sorry but there are no exceptions.
+
 `;
