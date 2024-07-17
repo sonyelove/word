@@ -650,6 +650,38 @@ Unit17. 공항
 출장차 온 겁니다.	!I'm here on business.
 약 1주일 정도 머물 겁니다.	!I'll stay for about a week.
 
+Unit18. 요일 날짜
+오늘은 무슨 요일이에요?	!What day is it today?
+월요일이에요.	!It's Monday.
+오늘은 목요일이에요.	!It's Thursday today.
+내일은 무슨 요일이에요?	!What day is it tomorrow?
+지금 몇 월이죠?	!What month is it?
+5월이에요.	!It's May.
+7월이에요.	!It's July.
+지난달에 어디 있었어요?	!Where were you last month?
+저는 7월에는 여기에 있었어요	!I was here in July.
+마지막 건강검진이 언제였나요?	!When was your last check-up?
+두 달 전이었어요.	!It was two months ago.
+9월에 서울에 가나요?	!Will you go to Seoul in September?
+마지막 출장이 언제였나요?	!When was your last business trip?
+생일이 언제예요?	!When's your birthday?
+12월 4일이에요.	!It's December 4th.
+고향은 어디예요?	!Where is your hometown?
+저는 시골에서 태어났어요.	!I was born in the countryside.
+어느 학교 다녔어요?	!Where did you go to school?
+대기고등학교 다녔어요.	!I went to Daegi High School.
+저는 인화초등학교 나왔어요.	!I went to Inwha Elementary School.
+몇 시예요?	!What time is it?
+2시 25분이에요.	!It's 2:25.
+2시에서 몇 분 지났어요.	!It's a few minutes after two.
+2시 5분 전이에요.	!It's five to two.
+몇 시인지 모르겠어요.	!I don't know what time it is.
+2시에 여기서 만나요.	!Let's meet here at two.
+우리는 제시간에 도착할 거예요.	!We'll be on time.
+제시간에 오세요.(늦지 마시구요.)	!Please be on time.
+저는 매일 6시 전에 일어나요.	!I get up before six o'clock everyday.
+저는 7시 반쯤 퇴근해요.	!I leave the office at about 7:30.
+
 Unit19. 언어
 영어를 할 줄 아세요?	!Do you speak English?
 네, 조금요.	!Yes, just a little.
