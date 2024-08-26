@@ -1,3 +1,5 @@
+/*
+*/
 let word_string = 
 `1. 기본동사 - Take
 제가 이 팜플릿 가져가도 될까요?!Can I take this pamphlet?
@@ -745,5 +747,72 @@ Unit20. 민원응대
 신청서 접수한 지가 2주 정도 지났습니다.	!I submitted my application about 2 weeks ago.
 죄송합니다. 곧 처리되도록 조치해 놓겠습니다.	!Sorry. I'll make sure that they process it soon.
 죄송합니다만, 예외는 없습니다.	!Sorry but there are no exceptions.
+
+p213. 접속사
+준비되면 알려줘요 !When you are ready, let me know.
+그들은 떠나기 전에, 우리에게 들릴 것이다. !Before they leave, they will visit us.
+샤워하고 나서 잠자리에 들 것이다. !I will go to bed after I take a shower.
+잠을 자는 동안에, 나는 이상한 꿈을 꾸었다. !While I was sleeping, I had a strange dream.
+그녀가 종종 거짓말을 하기 때문에, 나는 그녀를 신뢰할 수 없다. !As she often tells lies, I can't trust her.
+그는 나를 보자마자 도망갔다. !As soon as he saw me, he ran away.
+만약 내일 비가 온다면 나는 집에 머무를 것이다. !If it rains tomorrow, I'll stay home.
+일단 기회를 발견하면, 잡아라 !Once you find an opportunity, take it.
+이곳으로 이사 온 이래로 계속 그 회사에 다녔다. !I have worked for the company since I moved here.
+어떤 사람들은 갈색 눈을 가지고 있는데 반면에 파란색이나 초록색 눈을 가진 사람들도 있습니다. !Some people have brown eyes, while others have blue or green eyes.
+혼자되기가 무섭게 그는 그 상자를 열었다. !The moment he has alone, he opened the box.
+그는 그의 일을 즐기지 않으므로 그는 행복하지 않았다. !Since he didn't enjoy his work, he was not happy.
+그는 비록 가남함에도 불구하고 행복하다 !Although he is poor, he is happy.
+이제 그 시험이 끝났으니 안심이다. !Now that the exam is over, I'm relieved.
+
+p216. 신사임당
+신사임당은 한국 화폐에 처음으로 등장한 여성이 되었다. !Shin Saimdang become the first woman to appear on a Korean banknote.
+신사임당은 역사상 매우 위해한 화가이자, 작가, 서예가, 시인이었다. !Shin Saimdang was a great artist, writer, calligraphist, abd poet.
+그녀는 바느질과 자수에도 능했다. !She was good at sewing and embroidery.
+그녀는 인자한 어머니와 어진아내의 거울이 되었다. ! She became the mirror of a wise mother and kindhearted wife.
+그냐는 지극한 효성의 모델이 되었다. !She became a model of filial piety.
+그녀는 조선왕조때 위대한 학자인 이이이 어머니였다. !She was the mother of the great Joseon Dynasty scholar Yi Yi.
+여전히 신사임당은 한국인들에게 모범적인 여성상이다. !She is still a model woman for koreans.
+
+숫자영어
+선착순 10명, 선착순으로 !the first ten people, first-come, first-served
+나 1등했다 !I got the first place.
+세계 상위 5개 회사들 !the world's top five companies
+삼일에 한번 !every third day
+이틀에 한번 !every other day
+그거 벌써 절반 정도 끝났다. !It's already half finished.(It's already halfway done.)
+십중 팔구 !ten to one
+짝수 !even numbers
+홀수 !odd numbers
+소금 한 꼬집 !a pinch of salt
+식초 한 번 휘둘러 뿌리기 !a dash of vinegar
+간장 한 큰 술 !a tablespoon of soy sauce
+우유 한 팩 ! a carton of milk
+시금치 한 다발 !a bunch of spinach
+나 지금 23페이지 읽고 있다. !I'm on page 23.
+세 번째 단락 두 번째 줄에 !in the second line of the third paragraph
+우리집은 302동 502호이다. !My home is Apartment 502 in Building 302.
+다음 버스정류장까지 3km 남았다. !It's 3km to the next bus stop.
+속도를 30으로 줄여 !Drop your speed to 30.
+나는 뒤쪽에서 세번째 칸에 있다(기차, 전철) !I'm on the third car from the back.
+잠실역에서 8호선으로 갈아타세요. !Transfer to Line 8 at Gamsil station.
+창세기 23장 4절 !Genesis, Chapter 23, Verse 4
+그는 3선 국회의원이다. !He's a three-time lawmaker.
+제32조 4항(법) !article 32, section 4
+그는 한국계 미국인 2세이다. !He's a second generation Korean American.
+17세기 중반에 !in the mid-17th century
+이 언덕의 경사도는 30도이다. !This slope has an incline of 30 degrees.
+그거 두배속으로 틀어봐 !Play it at double speed.
+월세가 한달에 80만원이다. !The rent is 800,000 won a month.(The monthly rent is 800,000 won.)
+중국인 다섯명 당, 미국인 한명 !one American for every five Chinese
+정상가에서 10% 할인 가격에 !at 10% off the regular price
+2/4 분기 !the second quarter
+난 계약금으로 100만원을 냈다. !I gave a down payment of 1 million won.
+난 36개월 할부로 차 구입했다. !I bought my car on 36-month installments.
+우리가 3대 2로 이겼다. !We beat them 3 to 2.
+그 게임은 3:3으로 비겼다. !The game was tied 3 to 3.
+2m 간격으로 !at intervals of 2 meters
+3제곱 !three squared
+3세제곱 !three cubed
+내 혈압은 140에 90이다. !My blood pressure is 140 over 90
 
 `;
