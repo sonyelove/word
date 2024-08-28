@@ -759,18 +759,18 @@ p213. 접속사
 일단 기회를 발견하면, 잡아라 !Once you find an opportunity, take it.
 이곳으로 이사 온 이래로 계속 그 회사에 다녔다. !I have worked for the company since I moved here.
 어떤 사람들은 갈색 눈을 가지고 있는데 반면에 파란색이나 초록색 눈을 가진 사람들도 있습니다. !Some people have brown eyes, while others have blue or green eyes.
-혼자되기가 무섭게 그는 그 상자를 열었다. !The moment he has alone, he opened the box.
+혼자되기가 무섭게 그는 그 상자를 열었다. !The moment he was alone, he opened the box.
 그는 그의 일을 즐기지 않으므로 그는 행복하지 않았다. !Since he didn't enjoy his work, he was not happy.
 그는 비록 가남함에도 불구하고 행복하다 !Although he is poor, he is happy.
 이제 그 시험이 끝났으니 안심이다. !Now that the exam is over, I'm relieved.
 
 p216. 신사임당
-신사임당은 한국 화폐에 처음으로 등장한 여성이 되었다. !Shin Saimdang become the first woman to appear on a Korean banknote.
-신사임당은 역사상 매우 위해한 화가이자, 작가, 서예가, 시인이었다. !Shin Saimdang was a great artist, writer, calligraphist, abd poet.
+신사임당은 한국 화폐에 처음으로 등장한 여성이 되었다. !Shin Saimdang became the first woman to appear on a Korean banknote.
+신사임당은 역사상 매우 위해한 화가이자, 작가, 서예가, 시인이었다. !Shin Saimdang was a great artist, writer, calligraphist, and poet.
 그녀는 바느질과 자수에도 능했다. !She was good at sewing and embroidery.
 그녀는 인자한 어머니와 어진아내의 거울이 되었다. ! She became the mirror of a wise mother and kindhearted wife.
-그냐는 지극한 효성의 모델이 되었다. !She became a model of filial piety.
-그녀는 조선왕조때 위대한 학자인 이이이 어머니였다. !She was the mother of the great Joseon Dynasty scholar Yi Yi.
+그녀는 지극한 효성의 모델이 되었다. !She became a model of filial piety.
+그녀는 조선왕조때 위대한 학자인 이이의 어머니였다. !She was the mother of the great Joseon Dynasty scholar Yi Yi.
 여전히 신사임당은 한국인들에게 모범적인 여성상이다. !She is still a model woman for koreans.
 
 숫자영어
